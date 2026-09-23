@@ -1,6 +1,6 @@
 # DakaSlim · Privacy Policy
 
-**Last updated**: 2026-09-22
+**Last updated**: 2026-09-23
 
 DakaSlim ("the App") is developed independently by Wallace Lai. This policy explains how the App collects, uses and shares your personal data. Please read it before using the App.
 
@@ -45,6 +45,8 @@ On the free tier, the App shows rewarded ads through Google AdMob in exchange fo
 - Ad interaction events (views, clicks)
 - Device type and OS version
 
+If you are in the EU, UK or Switzerland, the App asks for your consent to personalised ads through Google's consent management tool before it first loads an ad. You can change your choice at any time under Settings → About → "Ad privacy settings". If you do not consent, the App does not request ads from Google AdMob.
+
 See Google's Privacy Policy for how ad data is handled: <https://policies.google.com/privacy>
 
 ### 1.5 In-app purchases
@@ -80,6 +82,7 @@ At any time you can:
 - **View all data**: export a JSON backup from Settings
 - **Delete all data**: use "Clear all records" in Settings
 - **Delete cloud data**: sign out, then clear all records in the App; to fully erase data held in Firebase, email us at the address below
+- **Change ad consent** (EU, UK and Switzerland): Settings → About → "Ad privacy settings"
 - **Withdraw consent**: uninstall the App
 
 If you are in the EU, UK, Switzerland or California, you also have rights under GDPR / UK GDPR / CCPA, including access, rectification, erasure, portability and objection.
