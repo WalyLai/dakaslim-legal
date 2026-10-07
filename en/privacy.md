@@ -1,6 +1,6 @@
 # DakaSlim · Privacy Policy
 
-**Last updated**: 2026-10-01
+**Last updated**: 2026-10-07
 
 DakaSlim ("the App") is developed independently by Wallace Lai. This policy explains how the App collects, uses and shares your personal data. Please read it before using the App.
 
@@ -88,7 +88,27 @@ Apart from these service providers, the App shares your data with no one.
 
 ---
 
-## 4. Your rights
+<a id="account-deletion"></a>
+
+## 4. Account deletion
+
+DakaSlim's core data lives on your device — uninstalling the app permanently deletes it. If you've enabled cloud sync, you can delete your cloud account and data in either of two ways:
+
+**In-app**: Settings → Cloud sync → Delete cloud account & data → Confirm. This removes:
+
+- Your injection, weight and settings records in Firestore
+- All your photos in Firebase Storage
+- Your cloud sync account
+
+**Email**: If you can no longer open the app, email **wallace.lai.android@gmail.com** with the subject "Delete my DakaSlim cloud data" and include the Google account you signed in with. We'll process the request within 7 days and reply with confirmation.
+
+**Data that cannot be individually deleted**: Anonymous crash reports (Firebase Crashlytics) contain no personally identifiable information and cannot technically be mapped back to a specific user. Under GDPR Article 11 we do not retain information sufficient to re-identify you. You can turn these off anytime via Settings → Privacy → Send anonymous crash reports.
+
+**No account required for use**: Core features (injection log, weight log, reminders, export, goal) are all usable without signing in — no account needs to be created.
+
+---
+
+## 5. Your rights
 
 At any time you can:
 
@@ -103,7 +123,7 @@ If you are in the EU, UK, Switzerland or California, you also have rights under 
 
 ---
 
-## 5. Retention
+## 6. Retention
 
 - On-device data: until you delete it or uninstall the App
 - Cloud data: until you delete it
@@ -111,13 +131,13 @@ If you are in the EU, UK, Switzerland or California, you also have rights under 
 
 ---
 
-## 6. Children's privacy
+## 7. Children's privacy
 
 The App is **not directed at children under 13**. Minors should use it with a parent or legal guardian. If we learn we have collected data from a child under 13, we will delete it promptly.
 
 ---
 
-## 7. Security
+## 8. Security
 
 - On-device data is protected by the OS sandbox; you can additionally enable the biometric privacy lock
 - Cloud sync is encrypted in transit over HTTPS
@@ -127,13 +147,13 @@ We do our best to protect your data but cannot guarantee absolute security. In t
 
 ---
 
-## 8. Changes to this policy
+## 9. Changes to this policy
 
 This policy may be updated from time to time. The "Last updated" date at the top will change, and material changes will be announced in the App, possibly asking you to agree again.
 
 ---
 
-## 9. Contact
+## 10. Contact
 
 Questions about this policy:
 
